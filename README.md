@@ -1,5 +1,5 @@
-#smallest-number
-#student information
+# smallest-number
+## student information
 **Name**:Habtamu Ayele
 **student Id**: RMNS-9485/-23
 **course**:Data structure and algorizm
